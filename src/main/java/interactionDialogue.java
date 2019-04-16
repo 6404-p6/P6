@@ -1,12 +1,10 @@
-public class interaktionsdialog {
-
+public class interactionDialogue {
 
      private String problemOverview;
      private String description;
      private String alternativeSuggestion;
 
-
-     public interaktionsdialog(String problemOverview, String description, String alternativeSuggestion){
+     public interactionDialogue(String problemOverview, String description, String alternativeSuggestion){
           this.setProblemOverview(problemOverview);
           this.setDescription(description);
           this.setAlternativeSuggestion(alternativeSuggestion);
@@ -39,7 +37,7 @@ public class interaktionsdialog {
      }
 
 
-     
+
 
 
 }
