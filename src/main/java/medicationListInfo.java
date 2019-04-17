@@ -75,4 +75,10 @@ public class medicationListInfo {
         this.drugClass = drugClass;
     }
 
+
+    // Metoder:
+//    - visInteraktioner () 
+//    - afslutVisualisering ()
+//    - ordinerMedikament ()
+
 }

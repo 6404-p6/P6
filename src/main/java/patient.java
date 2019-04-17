@@ -43,4 +43,11 @@ public class patient {
     public void setPatientID(String patientID) {
         this.patientID = patientID;
     }
+
+
+    // Metoder:
+//    - visInteraktioner () 
+//    - afslutVisualisering ()
+//    - ordinerMedikament ()
+
 }

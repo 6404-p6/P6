@@ -17,4 +17,11 @@ public class ordination {
     public void setChooseMedication(String chooseMedication) {
         this.chooseMedication = chooseMedication;
     }
+
+    // Metoder:
+//    - visInteraktioner () 
+//    - afslutVisualisering ()
+//    - ordinerMedikament ()
+
+
 }

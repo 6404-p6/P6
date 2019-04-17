@@ -16,4 +16,11 @@ public class medicationList {
     public void setMedicationList(List<String> medicationList) {
         this.medicationList = medicationList;
     }
+
+
+    // Metoder:
+//    - visInteraktioner () 
+//    - afslutVisualisering ()
+//    - ordinerMedikament ()
+
 }

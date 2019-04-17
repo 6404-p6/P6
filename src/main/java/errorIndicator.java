@@ -18,4 +18,14 @@ public class errorIndicator {
     public void setNumberOfError(int numberOfError) {
         NumberOfError = numberOfError;
     }
+
+
+
+    // Metoder:
+//    - visInteraktioner () 
+//    - afslutVisualisering ()
+//    - ordinerMedikament ()
+
+
+
 }
