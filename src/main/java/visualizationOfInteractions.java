@@ -4,11 +4,13 @@ public class visualizationOfInteractions {
 
 
 
+/*
+ Metoder:
+- viewInteractions ()
+- exitVisualization ()
+- prescribingMedication ()
 
-// Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
+ */
 
 
 }

@@ -35,10 +35,11 @@ public class interactionDialogue {
           this.alternativeSuggestion = alternativeSuggestion;
      }
 
-     // Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
+    /*
+    Metoder:
+
+
+     */
 
 
 

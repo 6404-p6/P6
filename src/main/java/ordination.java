@@ -18,10 +18,13 @@ public class ordination {
         this.chooseMedication = chooseMedication;
     }
 
-    // Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
 
+    /*
+    Metoder:
+    - enterMedication ()
+    - prescribingMedication ()
+    - disconnectPrescription ()
+    - replaceWithAlternativeDrug ()
+     */
 
 }

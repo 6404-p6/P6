@@ -45,9 +45,6 @@ public class patient {
     }
 
 
-    // Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
+    // Metoder: Ingen metoder
 
 }

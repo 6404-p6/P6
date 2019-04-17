@@ -18,9 +18,15 @@ public class medicationList {
     }
 
 
-    // Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
+/*
+Metoder:
+    - showMedicineList ()
+- deleteMedication ()
+- changePrescriptionInformation ()
+- createPrescription ()
+- updateExternalFlkList ()
+- getFMKList ()
+
+ */
 
 }

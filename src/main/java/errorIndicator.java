@@ -20,12 +20,10 @@ public class errorIndicator {
     }
 
 
-
-    // Metoder:
-//    - visInteraktioner () 
-//    - afslutVisualisering ()
-//    - ordinerMedikament ()
-
-
+    /*
+    Metoder:
+- calculateError ()
+- showIndicator ()
+     */
 
 }
