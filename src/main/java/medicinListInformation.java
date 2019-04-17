@@ -25,7 +25,7 @@ public medicinListInformation(String drugName, String drugClass, int dosis, Stri
 }
 
 // Metoder //
-
+/*
     public showInteractionInformation(){
 
 }
@@ -33,5 +33,5 @@ public medicinListInformation(String drugName, String drugClass, int dosis, Stri
 public pullMedicinInformation(){
 
 }
-
+*/
 }
