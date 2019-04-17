@@ -7,21 +7,24 @@ public class medicationListInfo {
     private Timestamp startDate;
     private Timestamp endDate;
     private String medication;
-    private int administration;
-    private String unit;
+    private enum administration{
+        doctor,
+        nurse;
+    }
+    private enum unit{
+        mg,
+        ml;
+    }
     private String drugClass;
 
     public medicationListInfo(int dosage, String frequency, Timestamp startDate, Timestamp endDate, String medication,
-                              int administration, String unit, String drugClass){
+                              String drugClass){
         this.setDosage(dosage);
         this.setFrequency(frequency);
         this.setStartDate(startDate);
         this.setEndDate(endDate);
         this.setMedication(medication);
-        this.administration = administration;
-        this.unit = unit;
         this.setDrugClass(drugClass);
-
     }
 
     public int getDosage() {
@@ -71,9 +74,5 @@ public class medicationListInfo {
     public void setDrugClass(String drugClass) {
         this.drugClass = drugClass;
     }
-
-
-
-
 
 }

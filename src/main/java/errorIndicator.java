@@ -1,10 +1,13 @@
 public class errorIndicator {
 
     private int NumberOfError;
-    private int highestSeverity;
+    private enum highestSeverit{
+        risk1,
+        risk2,
+        risk3;
+    }
 
-    public errorIndicator(int NumberOfError, int highestSeverity){
-        this.setHighestSeverity(highestSeverity);
+    public errorIndicator(int NumberOfError){
         this.setNumberOfError(NumberOfError);
     }
 
@@ -14,13 +17,5 @@ public class errorIndicator {
 
     public void setNumberOfError(int numberOfError) {
         NumberOfError = numberOfError;
-    }
-
-    public int getHighestSeverity() {
-        return highestSeverity;
-    }
-
-    public void setHighestSeverity(int highestSeverity) {
-        this.highestSeverity = highestSeverity;
     }
 }

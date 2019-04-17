@@ -8,7 +8,6 @@ public class interactionDialogue {
           this.setProblemOverview(problemOverview);
           this.setDescription(description);
           this.setAlternativeSuggestion(alternativeSuggestion);
-
      }
 
 
