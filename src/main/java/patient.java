@@ -5,14 +5,12 @@ public class patient {
     private String CPRnumber;
     private String patientID;
 
-
     public patient(String surname, String lastname, String CPRnumber, String patientID){
         this.setSurname(surname);
         this.setLastname(lastname);
         this.setCPRnumber(CPRnumber);
         this.setPatientID(patientID);
     }
-
 
     public String getSurname() {
         return surname;

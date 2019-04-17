@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a056d703-6f5e-47c2-91fd-952919d47ac0" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/main/java/patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     <list default="true" id="7be53491-6dd5-46d4-9919-f04bff19352a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patient.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -24,13 +29,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+=======
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -53,17 +63,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/patient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state>
+              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
               <folding>
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#493#494#0" expanded="true" />
                 <element signature="e#531#532#0" expanded="true" />
                 <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
                 <element signature="e#645#646#0" expanded="true" />
                 <element signature="e#685#686#0" expanded="true" />
                 <element signature="e#721#722#0" expanded="true" />
@@ -150,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/main/java/interactionDialogue.java" />
         <option value="$PROJECT_DIR$/src/main/java/errorIndicator.java" />
         <option value="$PROJECT_DIR$/src/main/java/patient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -211,9 +223,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555483478232" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555483505743" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Objektorienteret programmering/Kursusgang 5/Opgaver/control-flow-statement-TDuncker" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555483744851" />
+>>>>>>> Stashed changes
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -258,13 +274,17 @@
       <workItem from="1555411903774" duration="2329000" />
       <workItem from="1555419672059" duration="1682000" />
       <workItem from="1555482393927" duration="8000" />
-      <workItem from="1555482826912" duration="572000" />
+      <workItem from="1555482826912" duration="838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="7658000" />
     <option name="totallyTimeSpent" value="1398000" />
+=======
+    <option name="totallyTimeSpent" value="7924000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -327,6 +347,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -336,6 +357,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/main/java/errorIndicator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -377,14 +400,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
           <folding>
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
             <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
             <element signature="e#645#646#0" expanded="true" />
             <element signature="e#685#686#0" expanded="true" />
             <element signature="e#721#722#0" expanded="true" />
@@ -396,6 +420,13 @@
             <element signature="e#963#964#0" expanded="true" />
             <element signature="e#1005#1006#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
