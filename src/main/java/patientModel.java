@@ -1,23 +1,23 @@
 public class patientModel {
 
-    private String surname;
+    private String firstname;
     private String lastname;
     private String CPRnumber;
     private String patientID;
 
-    public patientModel(String surname, String lastname, String CPRnumber, String patientID){
-        this.setSurname(surname);
+    public patientModel(String firstname, String lastname, String CPRnumber, String patientID){
+        this.setFirstname(firstname);
         this.setLastname(lastname);
         this.setCPRnumber(CPRnumber);
         this.setPatientID(patientID);
     }
 
     public String getSurname() {
-        return surname;
+        return firstname;
     }
 
-    public void setSurname(String surname) {
-        this.surname = surname;
+    public void setFirstname(String surname) {
+        this.firstname = surname;
     }
 
     public String getLastname() {

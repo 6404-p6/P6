@@ -1,22 +1,20 @@
 public class errorIndicatorModel {
 
-    private int NumberOfError;
-    private enum highestSeverit{
+    private int NumberOfErrors;
+    private enum highestSeverity{
         risk1,
         risk2,
         risk3;
     }
 
-    public errorIndicatorModel(int NumberOfError){
-        this.setNumberOfError(NumberOfError);
+    public errorIndicatorModel(int NumberOfErrors){
+        this.setNumberOfErrors(NumberOfErrors);
     }
 
-    public int getNumberOfError() {
-        return NumberOfError;
-    }
+    public int getNumberOfErrors() { return NumberOfErrors; }
 
-    public void setNumberOfError(int numberOfError) {
-        NumberOfError = numberOfError;
+    public void setNumberOfErrors(int numberOfErrors) {
+        NumberOfErrors = numberOfErrors;
     }
 
 

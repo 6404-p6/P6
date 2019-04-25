@@ -97,6 +97,14 @@ public class medicineModel {
         this.drugClass = drugClass;
     }
 
+    public int getAdministration() { return administration; }
+
+    public void setAdministration(int administration) { this.administration = administration; }
+
+    public int getUnit() { return unit; }
+
+    public void setUnit(int unit) { this.unit = unit; }
+
 
 /*
 Metoder:

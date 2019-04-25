@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7861a762-d4f1-47dd-8e3c-a05fb322bc15" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/modules/6404.6404.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/6404.6404.main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/6404.6404.test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/MedicineList/medicineListView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/medicineModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medicineModel.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/MedicineList/medicineListModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MedicineList/medicineListModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/errorIndicatorModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/errorIndicatorModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/medicineInteraction/medicineInteractionModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medicineInteraction/medicineInteractionModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/medicineModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medicineModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patientModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patientModel.java" afterDir="false" />
+>>>>>>> master
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -18,6 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
@@ -81,6 +90,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> master
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,18 +108,35 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/MedicineList/medicationList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MedicineList/medicineListModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/MedicineList/medicineListController.java" />
         <option value="$PROJECT_DIR$/src/main/java/MedicineList/medicationListInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/patient.java" />
         <option value="$PROJECT_DIR$/src/main/java/druginteractions.java" />
         <option value="$PROJECT_DIR$/src/main/java/errorIndicator.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/main/java/medicineInteractionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medicineInteractionModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MedicineModel.java" />
+>>>>>>> master
         <option value="$PROJECT_DIR$/src/main/java/medicineModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patientModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MedicineList/medicineListModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medicineInteraction/medicineInteractionModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/errorIndicatorModel.java" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-34" />
+    <option name="y" value="11" />
+    <option name="width" value="1170" />
+    <option name="height" value="869" />
+>>>>>>> master
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -120,29 +149,49 @@
           <expand>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -150,7 +199,11 @@
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -158,7 +211,11 @@
             </path>
             <path>
               <item name="6404" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="ST6-Projektkode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="P6" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+>>>>>>> master
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -198,10 +255,16 @@
       <updated>1555932157806</updated>
       <workItem from="1555932159235" duration="21000" />
       <workItem from="1556173928413" duration="3136000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1556178226563" duration="1878000" />
+      <workItem from="1556189201104" duration="2198000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2612000" />
   </component>
   <component name="ToolWindowManager">
@@ -209,6 +272,14 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+=======
+    <option name="totallyTimeSpent" value="10242000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18926175" />
+>>>>>>> master
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -241,6 +312,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/PrescriptionController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -249,12 +321,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/medicineInteractionModel.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/druginteractions.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ordination.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MedicineList/medicineListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="112" selection-start-line="29" selection-start-column="112" selection-end-line="29" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prescription/PrescriptionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizationOfInteractions.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interactionDialogue.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/medicineInteraction/medicineInteractionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prescription/PrescriptionController.java">
+>>>>>>> master
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/medicineModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -300,6 +408,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/MedicineList/medicineListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/errorIndicatorModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medicineInteraction/medicineInteractionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medicineModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patientModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+>>>>>>> master
         </state>
       </provider>
     </entry>

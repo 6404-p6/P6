@@ -1,9 +1,8 @@
 package medicineInteraction;
 
 public class medicineInteractionModel {
-    private int value;
-    private String medikamentA;
-    private String medikamentB;
+    private String medicamentA;
+    private String medicamentB;
     private int probability;
     private enum severity {
         mild,
@@ -15,35 +14,27 @@ public class medicineInteractionModel {
     private String description;
     private String alternativeSuggestion;
 
-    public medicineInteractionModel (String medikamentA, String medikamentB, int probability, int severity){
-        this.setMedikamentA(medikamentA);
-        this.setMedikamentB(medikamentB);
+    public medicineInteractionModel (String medicamentA, String medicamentB, int probability, int severity){
+        this.setMedicamentA(medicamentA);
+        this.setMedicamentB(medicamentB);
         this.setProbability(probability);
         this.setSeverity(severity);
     }
 
-    public int getValue() {
-        return value;
+    public String getMedicamentA() {
+        return medicamentA;
     }
 
-    public void setValue(int value) {
-        this.value = value;
+    public void setMedicamentA(String medicamentA) {
+        this.medicamentA = medicamentA;
     }
 
-    public String getMedikamentA() {
-        return medikamentA;
+    public String getMedicamentB() {
+        return medicamentB;
     }
 
-    public void setMedikamentA(String medikamentA) {
-        this.medikamentA = medikamentA;
-    }
-
-    public String getMedikamentB() {
-        return medikamentB;
-    }
-
-    public void setMedikamentB(String medikamentB) {
-        this.medikamentB = medikamentB;
+    public void setMedicamentB(String medicamentB) {
+        this.medicamentB = medicamentB;
     }
 
     public int getProbability() {
@@ -89,7 +80,7 @@ public class medicineInteractionModel {
         /*
     Metoder:
     - retrieveInteractionsInformation ()
-    - retrieveSimilar Drugs ()
+    - retrieveSimilarDrugs ()
     - calculationBestMedicine ()
     - showInteractionsInformation ()
      */
