@@ -25,8 +25,9 @@ public class medicineModel {
     }
 
     private enum administration{
-        doctor,
-        nurse;
+        OR,
+        IM,
+        IV;
     }
     private int administration;
     private enum unit{
