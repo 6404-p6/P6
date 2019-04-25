@@ -7,27 +7,6 @@ public class medicineModel {
     private Timestamp startDate;
     private Timestamp endDate;
     private String medication;
-
-    public int getAdministration() {
-        return administration;
-    }
-
-    public void setAdministration(int administration) {
-        this.administration = administration;
-    }
-
-    public int getUnit() {
-        return unit;
-    }
-
-    public void setUnit(int unit) {
-        this.unit = unit;
-    }
-
-    private enum administration{
-        doctor,
-        nurse;
-    }
     private int administration;
     private enum unit{
         mg,
@@ -95,6 +74,14 @@ public class medicineModel {
     public void setDrugClass(String drugClass) {
         this.drugClass = drugClass;
     }
+
+    public int getAdministration() { return administration; }
+
+    public void setAdministration(int administration) { this.administration = administration; }
+
+    public int getUnit() { return unit; }
+
+    public void setUnit(int unit) { this.unit = unit; }
 
 
 /*
