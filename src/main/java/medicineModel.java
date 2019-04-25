@@ -1,6 +1,6 @@
 import java.sql.Timestamp;
 
-public class MedicineModel {
+public class medicineModel {
 
     private int dosage;
     private String frequency;
@@ -36,7 +36,7 @@ public class MedicineModel {
     private int unit;
     private String drugClass;
 
-    public medicationListInfo(int dosage, String frequency, Timestamp startDate, Timestamp endDate, String medication,
+    public medicineModel(int dosage, String frequency, Timestamp startDate, Timestamp endDate, String medication,
                               int administration, int unit, String drugClass){
         this.setDosage(dosage);
         this.setFrequency(frequency);
@@ -101,8 +101,6 @@ public class MedicineModel {
 Metoder:
 - showPrescriptionInfo ()
 - pullRecordInfo ()
-
-
  */
 
 }

@@ -1,3 +1,5 @@
+package medicineInteraction;
+
 public class medicineInteractionModel {
     private int value;
     private String medikamentA;
@@ -9,8 +11,11 @@ public class medicineInteractionModel {
         severe;
     }
     private int severity;
+    private String problemOverview;
+    private String description;
+    private String alternativeSuggestion;
 
-    public druginteractions(String medikamentA, String medikamentB, int probability, int severity){
+    public medicineInteractionModel (String medikamentA, String medikamentB, int probability, int severity){
         this.setMedikamentA(medikamentA);
         this.setMedikamentB(medikamentB);
         this.setProbability(probability);
@@ -57,6 +62,29 @@ public class medicineInteractionModel {
         this.severity = severity;
     }
 
+    public String getProblemOverview() {
+        return problemOverview;
+    }
+
+    public void setProblemOverview(String problemOverview) {
+        this.problemOverview = problemOverview;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getAlternativeSuggestion() {
+        return alternativeSuggestion;
+    }
+
+    public void setAlternativeSuggestion(String alternativeSuggestion) {
+        this.alternativeSuggestion = alternativeSuggestion;
+    }
 
         /*
     Metoder:
