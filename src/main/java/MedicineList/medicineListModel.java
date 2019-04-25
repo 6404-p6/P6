@@ -1,6 +1,8 @@
+package MedicineList;
+
 import java.sql.Timestamp;
 
-public class medicationListInfo {
+public class medicineListModel {
 
     private int dosage;
     private String frequency;
@@ -36,7 +38,7 @@ public class medicationListInfo {
     private int unit;
     private String drugClass;
 
-    public medicationListInfo(int dosage, String frequency, Timestamp startDate, Timestamp endDate, String medication,
+    public medicineListModel(int dosage, String frequency, Timestamp startDate, Timestamp endDate, String medication,
                               int administration, int unit, String drugClass){
         this.setDosage(dosage);
         this.setFrequency(frequency);

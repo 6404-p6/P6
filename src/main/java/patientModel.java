@@ -1,11 +1,11 @@
-public class patient {
+public class patientModel {
 
     private String surname;
     private String lastname;
     private String CPRnumber;
     private String patientID;
 
-    public patient(String surname, String lastname, String CPRnumber, String patientID){
+    public patientModel(String surname, String lastname, String CPRnumber, String patientID){
         this.setSurname(surname);
         this.setLastname(lastname);
         this.setCPRnumber(CPRnumber);
@@ -28,9 +28,7 @@ public class patient {
         this.lastname = lastname;
     }
 
-    public String getCPRnumber() {
-        return CPRnumber;
-    }
+    public String getCPRnumber() { return CPRnumber; }
 
     public void setCPRnumber(String CPRnumber) {
         this.CPRnumber = CPRnumber;

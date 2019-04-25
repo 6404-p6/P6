@@ -1,4 +1,4 @@
-public class errorIndicator {
+public class errorIndicatorModel {
 
     private int NumberOfError;
     private enum highestSeverit{
@@ -7,7 +7,7 @@ public class errorIndicator {
         risk3;
     }
 
-    public errorIndicator(int NumberOfError){
+    public errorIndicatorModel(int NumberOfError){
         this.setNumberOfError(NumberOfError);
     }
 
