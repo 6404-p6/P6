@@ -10,9 +10,10 @@ public class medicineInteractionModel {
         severe;
     }
     private int severity;
-    private String problemOverview;
-    private String description;
-    private String alternativeSuggestion;
+    private String documentationLevel;
+    private String recommendationText;
+    private String descriptionOfEffect;
+    private String suggestionForAlternative;
 
     public medicineInteractionModel (String medicamentA, String medicamentB, int probability, int severity){
         this.setMedicamentA(medicamentA);
@@ -20,70 +21,70 @@ public class medicineInteractionModel {
         this.setProbability(probability);
         this.setSeverity(severity);
     }
-
-    public String getMedicamentA() {
-        return medicamentA;
-    }
-
-    public void setMedicamentA(String medicamentA) {
-        this.medicamentA = medicamentA;
-    }
-
-    public String getMedicamentB() {
-        return medicamentB;
-    }
-
-    public void setMedicamentB(String medicamentB) {
-        this.medicamentB = medicamentB;
-    }
-
-    public int getProbability() {
-        return probability;
-    }
-
-    public void setProbability(int probability) {
-        this.probability = probability;
-    }
-
-    public int getSeverity() {
-        return severity;
-    }
-
-    public void setSeverity(int severity) {
-        this.severity = severity;
-    }
-
-    public String getProblemOverview() {
-        return problemOverview;
-    }
-
-    public void setProblemOverview(String problemOverview) {
-        this.problemOverview = problemOverview;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public String getAlternativeSuggestion() {
-        return alternativeSuggestion;
-    }
-
-    public void setAlternativeSuggestion(String alternativeSuggestion) {
-        this.alternativeSuggestion = alternativeSuggestion;
-    }
-
-        /*
-    Metoder:
+/*
+ Metoder:
     - retrieveInteractionsInformation ()
     - retrieveSimilarDrugs ()
     - calculationBestMedicine ()
     - showInteractionsInformation ()
-     */
+ */
+    private String getMedicamentA() {
+        return medicamentA;
+    }
+
+    private void setMedicamentA(String medicamentA) {
+        this.medicamentA = medicamentA;
+    }
+
+    private String getMedicamentB() {
+        return medicamentB;
+    }
+
+    private void setMedicamentB(String medicamentB) {
+        this.medicamentB = medicamentB;
+    }
+
+    private int getProbability() {
+        return probability;
+    }
+
+    private void setProbability(int probability) {
+        this.probability = probability;
+    }
+
+    private int getSeverity() {
+        return severity;
+    }
+
+    private void setSeverity(int severity) {
+        this.severity = severity;
+    }
+
+    private String getDocumentationLevel() {
+        return documentationLevel;
+    }
+
+    private void setDocumentationLevel(String documentationLevel) {
+        this.documentationLevel = documentationLevel;
+    }
+
+    private String getRecommendationText () {return recommendationText;}
+
+    private String setRecommendationText (String recommendationText) {this.recommendationText = recommendationText;}
+
+    private String getDescriptionOfEffect() {
+        return descriptionOfEffect;
+    }
+
+    private void setDescriptionOfEffect(String descriptionOfEffect) {
+        this.descriptionOfEffect = descriptionOfEffect;
+    }
+
+    private String getSuggestionForAlternative() {
+        return suggestionForAlternative;
+    }
+
+    private void setSuggestionForAlternative(String suggestionForAlternative) { this.suggestionForAlternative = suggestionForAlternative; }
 
 
 }
