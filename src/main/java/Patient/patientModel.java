@@ -24,7 +24,7 @@ public class patientModel {
 
     private void setCPRNumber(String CPRNumber) { this.CPRNumber = CPRNumber; }
 
-    
+
 
 
 

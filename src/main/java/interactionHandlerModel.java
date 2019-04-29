@@ -13,6 +13,12 @@ public class interactionHandlerModel {
     public interactionHandlerModel(int NumberOfErrors){
         this.setNumberOfErrors(NumberOfErrors);
     }
+
+
+    static void calculateNumberOfErrors(){
+
+    }
+
 /*
 Metoder:
 - calculateNumberOfErrors ()
