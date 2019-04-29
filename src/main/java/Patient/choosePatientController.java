@@ -24,8 +24,5 @@ public class choosePatientController {
     public void setView(PatientView view) {
         this.view = view;
     }
-    //public void updateView(){
-    //    getView().choosePatientController(getModel().getName(), getModel().getRollNo());
-    //}
 
 }

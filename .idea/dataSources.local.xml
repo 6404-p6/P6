@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@Db.course.hst.aau.dk" uuid="f75cbdeb-66ac-4830-9208-bf67035b983d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>hst_2019_19gr6404</user-name>
+    </data-source>
+  </component>
+</project>
