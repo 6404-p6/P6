@@ -70,7 +70,7 @@ public class medicineInteractionModel {
 
     private String getRecommendationText () {return recommendationText;}
 
-    private String setRecommendationText (String recommendationText) {this.recommendationText = recommendationText;}
+    private void setRecommendationText (String recommendationText) {this.recommendationText = recommendationText;}
 
     private String getDescriptionOfEffect() {
         return descriptionOfEffect;

@@ -11,10 +11,6 @@ public class patientModel {
         this.setLastName(lastName);
         this.setCPRNumber(CPRNumber);
     }
-    /*
-    Metoder:
-    - getPatientInfo
-     */
 
     private String getFirstName() { return firstName; }
 
@@ -27,5 +23,9 @@ public class patientModel {
     private String getCPRNumber() { return CPRNumber; }
 
     private void setCPRNumber(String CPRNumber) { this.CPRNumber = CPRNumber; }
+
+    
+
+
 
 }
